@@ -1,3 +1,5 @@
+<img src="banner.png" width="100%">
+
 # Hi, I'm Sumantri 👋
 
 Software Developer from Indonesia passionate about building digital solutions, information systems, and business applications. Experienced in developing web-based systems using modern technologies and continuously exploring new tools to improve software quality and efficiency.
