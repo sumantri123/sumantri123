@@ -1,4 +1,4 @@
-<img src="banner.png" width="100%">
+<img src="Banner.png" width="100%">
 
 # Hi, I'm Sumantri 👋
 
